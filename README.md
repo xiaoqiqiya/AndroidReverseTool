@@ -6,7 +6,10 @@
 - 更新时间：`2016-12-05`
 - 官方地址：`https://github.com/madeye/proxydroid`
 - 下载地址：`https://play.google.com/store/apps/details?id=org.proxydroid`
-- 作用：通过iptables将所有TCP连接重定向到代理服务器上，强制性地让APP的HTTP请求通过代理
+- 作用：通过iptables将所有TCP连接重定向到代理服务器上，强制性地让APP的HTTP请求通过代理【推荐】
+## Postern
+- 当前版本：`3.1.2`
+- 作用：通过创建vpn形式抓包
 
 ## JustTrustMeAlready
 - 当前版本：`.2`
