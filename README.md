@@ -1,19 +1,6 @@
 # AndroidReverseTool
 安卓逆向工具总结
 
-## SuperSu(超级授权)
-- 当前版本：`2.8.5-SR5`
-- 更新时间：`2017-05-29`
-- 官方地址：`http://www.supersu.com/`
-- 作用：刷机后必装的root工具, `./SuperSu`路径下一个是apk安装包，一个是在recovery中刷进去的包
-
-## Xposed Installer
-- 当前版本：`3.1.5`
-- 更新时间：`2018-01-09`
-- 官方地址：`https://github.com/rovo89/XposedInstaller`
-- 下载地址：`https://github.com/rovo89/XposedInstaller/releases`
-- 作用：一套开源的、在Android高权限模式下运行的框架服务，可以在不修改APK文件的情况下影响程序运行(修改系统)的框架服务
-
 ## ProxyDroid
 - 当前版本：`2.7.7`
 - 更新时间：`2016-12-05`
